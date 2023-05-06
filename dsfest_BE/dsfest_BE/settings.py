@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'festapp',
     'rest_framework',
     'event',
+    'reviews'
 ]
 
 MIDDLEWARE = [
